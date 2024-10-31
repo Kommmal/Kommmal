@@ -1,4 +1,5 @@
 👋 Hello! I'm a web developer dedicated to building dynamic and engaging web applications. 
+
 🔧 Skills & Technologies:
 
 Front-End: Proficient in HTML, CSS, Typescript, and JavaScript.
